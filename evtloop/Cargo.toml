@@ -5,6 +5,8 @@ authors = ["rozgo <alex.rozgo@gmail.com>"]
 
 [dependencies]
 libc = "*"
+ws = "*"
+env_logger = "*"
 
 [lib]
 name = "evtloop"
