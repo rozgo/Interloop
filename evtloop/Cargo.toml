@@ -1,0 +1,11 @@
+[package]
+name = "evtloop"
+version = "0.1.0"
+authors = ["rozgo <alex.rozgo@gmail.com>"]
+
+[dependencies]
+
+
+[lib]
+name = "evtloop"
+crate-type = ["dylib"]
